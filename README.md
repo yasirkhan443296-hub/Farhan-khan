@@ -3,16 +3,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist+🚀" alt="Typing SVG"/>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
 
 ---
 
 ## 🌟 About Me
 
 - 📚 Currently learning **ML Algorithms, EDA & Feature Engineering** via CampusX 100 Days of ML
-- 🛠️ All my projects are available at [My GitHub Repositories](https://github.com/YOUR_USERNAME)
+- 🛠️ All my projects are available at [My GitHub Repositories](https://github.com/yasirkhan443296-hub)
 - 💬 Ask me about **Python, Scikit-learn, Logistic Regression, KNN, or Model Deployment**
 - 📫 How to reach me: **Yasirkhan443296@gmail.com**
 - 🎯 Actively building projects to land a **Data Science Internship**
@@ -40,13 +37,26 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yasirkhan443296-hub&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasirkhan443296-hub&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirkhan443296-hub&layout=compact&theme=tokyonight"/>
 </p>
+
+---
+
+
+---
+
+## 🎯 Fun Facts & Goals
+
+- 💡 I love learning about **Data Science** and applying it to real-world problems
+- 🔨 I believe in building **real projects** to sharpen practical skills
+- 📈 Every dataset tells a story — I enjoy finding it
+- 🚀 Constantly enhancing my skillset one project at a time
+- 🎯 Goal: Become a **Data Scientist** who solves meaningful problems
 
 ---
 
@@ -60,13 +70,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-## 🎯 Fun Facts & Goals
-
-- 💡 I love learning about **Data Science** and applying it to real-world problems
-- 🔨 I believe in building **real projects** to sharpen practical skills
-- 📈 Every dataset tells a story — I enjoy finding it
-- 🚀 Constantly enhancing my skillset one project at a time
-- 🎯 Goal: Become a **Data Scientist** who solves meaningful problems
