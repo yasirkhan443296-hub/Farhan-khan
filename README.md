@@ -12,7 +12,7 @@
 - 📚 Currently learning **ML Algorithms, EDA & Feature Engineering** via CampusX 100 Days of ML
 - 🛠️ All my projects are available at [My GitHub Repositories](https://github.com/YOUR_USERNAME)
 - 💬 Ask me about **Python, Scikit-learn, Logistic Regression, KNN, or Model Deployment**
-- 📫 How to reach me: **your@gmail.com**
+- 📫 How to reach me: **Yasirkhan443296@gmail.com**
 - 🎯 Actively building projects to land a **Data Science Internship**
 
 ---
@@ -51,10 +51,10 @@
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
+  <a href="https://www.linkedin.com/in/farhan-khannn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_GMAIL">
+  <a href="mailto:Yasirkhan443296@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -63,6 +63,8 @@
 
 ## 🎯 Fun Facts & Goals
 
-- 📖 On **Day 55+ of CampusX 100 Days of ML**
-- 🔨 I learn by **building real end-to-end projects**
-- 🌍 Long-term goal: **ML Engineer role in Europe**
+- 💡 I love learning about **Data Science** and applying it to real-world problems
+- 🔨 I believe in building **real projects** to sharpen practical skills
+- 📈 Every dataset tells a story — I enjoy finding it
+- 🚀 Constantly enhancing my skillset one project at a time
+- 🎯 Goal: Become a **Data Scientist** who solves meaningful problems
